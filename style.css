@@ -1,0 +1,78 @@
+.logo {
+  width:60px;
+  height: auto;
+}
+
+
+.navigation_links a {
+  color:#ffffff !important;
+
+}
+
+.products_container {
+  margin-top:3%;
+}
+
+.products_cards img{
+  width:300px;
+  height: auto;
+}
+
+.boxes{
+  padding:1%;
+  border:1px solid grey;
+}
+
+.products_cards h1{
+  font-size:20px;
+  text-align: center;
+  font-family: arial black;
+  margin-top: 2%;
+}
+
+.price {
+  text-align: center;
+  font-size: 23px;
+  font-family: ubuntu;
+  font-weight: bold;
+
+}
+
+.description {
+  text-align: left;
+  font-size:100%;
+  color:#000;
+}
+
+
+.notification_container {
+  background: #8A2387;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F27121, #E94057, #8A2387); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding: 3%;
+}
+
+
+.alert_msg {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 4%;
+}
+
+.alert_msg h1 {
+  text-align: center;
+  color:#fff;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+
+.alert_msg p {
+  text-align: left;
+  font-size: 18px;
+  font-family: arial;
+  color:#fff;
+
+}
